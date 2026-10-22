@@ -13,6 +13,3 @@ I'm interested in building technology that brings people together.
 - React Native
 - Supabase
 - Python
-
-### 📫 Connect with me
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
